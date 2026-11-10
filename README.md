@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0056-merge-intervals) |
@@ -126,6 +127,7 @@
 | [0016-3sum-closest](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -154,6 +156,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -165,6 +168,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
@@ -222,4 +226,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0493-reverse-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
