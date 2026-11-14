@@ -1,6 +1,7 @@
 
 class Solution {
 public:
+
     struct Compare {
         unordered_map<string, int>* freq;
 
@@ -11,9 +12,9 @@ public:
         bool operator()(string a, string b) {
 
             if ((*freq)[a] == (*freq)[b]) {
-                return a < b;
+                return a > b;
             }
-            return (*freq)[a] > (*freq)[b];
+            return (*freq)[a] < (*freq)[b];
         }
     };
 
@@ -29,21 +30,15 @@ public:
             pq((Compare(&mp)));
 
         for (auto it : mp) {
-
             pq.push(it.first);
-
-            if (pq.size() > k) {
-                pq.pop();
-            }
         }
 
         vector<string> ans;
 
-        while (!pq.empty()) {
+        for (int i = 0; i < k; i++) {
             ans.push_back(pq.top());
             pq.pop();
         }
-        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
