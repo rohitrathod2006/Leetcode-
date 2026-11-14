@@ -1,6 +1,22 @@
 
 class Solution {
 public:
+    struct Compare {
+        unordered_map<string, int>* freq;
+
+        Compare(unordered_map<string, int>* f) {
+            freq = f;
+        }
+
+        bool operator()(string a, string b) {
+
+            if ((*freq)[a] == (*freq)[b]) {
+                return a < b;
+            }
+            return (*freq)[a] > (*freq)[b];
+        }
+    };
+
     vector<string> topKFrequent(vector<string>& words, int k) {
 
         unordered_map<string, int> mp;
@@ -8,21 +24,26 @@ public:
         for (string word : words) {
             mp[word]++;
         }
-        vector<string> ans;
+
+        priority_queue<string, vector<string>, Compare>
+            pq((Compare(&mp)));
 
         for (auto it : mp) {
-            ans.push_back(it.first);
+
+            pq.push(it.first);
+
+            if (pq.size() > k) {
+                pq.pop();
+            }
         }
 
-        sort(ans.begin(), ans.end(), [&](string a, string b) {
+        vector<string> ans;
 
-            if (mp[a] == mp[b]) {
-                return a < b;
-            }
-            return mp[a] > mp[b];
-        });
-
-        ans.resize(k);
+        while (!pq.empty()) {
+            ans.push_back(pq.top());
+            pq.pop();
+        }
+        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
