@@ -32,6 +32,7 @@
 | [0485-max-consecutive-ones](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0912-sort-an-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -69,6 +70,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -76,6 +78,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
@@ -90,6 +93,7 @@
 | [0169-majority-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [2965-find-missing-and-repeated-values](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -109,6 +113,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -118,6 +123,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0169-majority-element) |
+| [0692-top-k-frequent-words](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -164,6 +170,7 @@
 ## String
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
 |  |
@@ -230,4 +237,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
