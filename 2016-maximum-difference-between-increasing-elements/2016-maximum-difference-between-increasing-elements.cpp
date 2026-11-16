@@ -3,17 +3,25 @@ class Solution {
 public:
     int maximumDifference(vector<int>& nums) {
 
-        int mini = nums[0];
+        int n = nums.size();
+        vector<int> prefixMin(n);
+        prefixMin[0] = nums[0];
+
+        for (int i = 1; i < n; i++) {
+
+            prefixMin[i] = min(prefixMin[i - 1], nums[i]);
+
+        }
+
         int ans = -1;
 
-        for (int i = 1; i < nums.size(); i++) {
+        for (int j = 1; j < n; j++) {
 
-            if (nums[i] > mini) {
+            if (nums[j] > prefixMin[j - 1]) {
 
-                ans = max(ans, nums[i] - mini);
+                ans = max(ans, nums[j] - prefixMin[j - 1]);
 
             }
-            mini = min(mini, nums[i]);
         }
         return ans;
     }
