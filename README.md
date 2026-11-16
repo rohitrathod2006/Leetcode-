@@ -35,6 +35,7 @@
 | [0692-top-k-frequent-words](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0912-sort-an-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
