@@ -4,18 +4,17 @@ public:
     int countPairs(vector<int>& nums, int target) {
 
         sort(nums.begin(), nums.end());
-        int left = 0;
-        int right = nums.size() - 1;
+        int n = nums.size();
         int count = 0;
 
-        while(left < right) {
-            if(nums[left] + nums[right] < target) {
-                count += (right - left);
-                left++;
-            }
-            else {
-                right--;
-            }
+        for(int i = 0; i < n - 1; i++) {
+            int pos = lower_bound(
+                nums.begin() + i + 1,
+                nums.end(),
+                target - nums[i]
+            ) - nums.begin();
+
+            count += pos - (i + 1);
         }
         return count;
     }
