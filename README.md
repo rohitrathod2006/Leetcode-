@@ -41,6 +41,7 @@
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2553-separate-the-digits-in-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
@@ -73,6 +74,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0912-sort-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -105,6 +107,7 @@
 | [0268-missing-number](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0493-reverse-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 ## Merge Sort
 |  |
@@ -138,6 +141,7 @@
 | [0075-sort-colors](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
 |  |
 | ------- |
