@@ -5,12 +5,14 @@ public:
         if(words.size() != s.length()) {
             return false;
         }
+        int i = 0;
 
-        for(int i = 0; i < words.size(); i++) {
+        for(string word : words) {
 
-            if(words[i][0] != s[i]) {
+            if(word[0] != s[i]) {
                 return false;
             }
+            i++;
         }
         return true;
     }
