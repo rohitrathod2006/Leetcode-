@@ -6,16 +6,15 @@ public:
 
         for (string s : strs) {
 
-            bool isNumber = true;
-
-            for (char ch : s) {
-                if (!isdigit(ch)) {
-                    isNumber = false;
-                    break;
-                }
-            }
-
             int val;
+
+            bool isNumber = all_of(
+                s.begin(),
+                s.end(),
+                [](char ch) {
+                    return isdigit(ch);
+                }
+            );
 
             if (isNumber) {
                 val = stoi(s);
