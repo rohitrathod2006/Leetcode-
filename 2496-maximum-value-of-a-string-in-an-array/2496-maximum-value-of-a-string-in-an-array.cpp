@@ -6,20 +6,25 @@ public:
 
         for (string s : strs) {
 
-            int val;
+            int val = 0;
+            bool isNumber = true;
 
-            bool isNumber = all_of(
-                s.begin(),
-                s.end(),
-                [](char ch) {
-                    return isdigit(ch);
+            for (char ch : s) {
+
+                if (ch >= '0' && ch <= '9') {
+
+                    val = val * 10 + (ch - '0');
+
                 }
-            );
+                else {
 
-            if (isNumber) {
-                val = stoi(s);
+                    isNumber = false;
+                    break;
+
+                }
             }
-            else {
+
+            if (!isNumber) {
                 val = s.length();
             }
             ans = max(ans, val);
