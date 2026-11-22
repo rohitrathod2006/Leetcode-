@@ -40,6 +40,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Stack
 |  |
