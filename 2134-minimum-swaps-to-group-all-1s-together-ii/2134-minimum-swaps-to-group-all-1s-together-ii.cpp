@@ -6,18 +6,24 @@ public:
 
         if (k == 0 || k == n) return 0;
 
-        vector<int> prefix(2 * n + 1, 0);
+        vector<int> arr(2 * n);
 
         for (int i = 0; i < 2 * n; i++) {
-            prefix[i + 1] = prefix[i] + nums[i % n];
+            arr[i] = nums[i % n];
         }
-        int ans = INT_MAX;
+        int ones = 0;
 
-        for (int i = 0; i < n; i++) {
-            int ones = prefix[i + k] - prefix[i];
-
-            ans = min(ans, k - ones);
+        for (int i = 0; i < k; i++) {
+            ones += arr[i];
         }
-        return ans;
+        int maxOnes = ones;
+
+        for (int i = k; i < n + k - 1; i++) {
+            ones += arr[i];
+            ones -= arr[i - k];
+
+            maxOnes = max(maxOnes, ones);
+        }
+        return k - maxOnes;
     }
 };
